@@ -5,6 +5,4 @@ projects:
   Commando:
     model: virion
     type: library
-    lint:
-      phpstan: false
 ...
